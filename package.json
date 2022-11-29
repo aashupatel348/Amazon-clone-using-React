@@ -1,0 +1,48 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "11.10.5",
+    "@emotion/styled": "11.10.5",
+    "@firebase/app-types": "0.8.1",
+    "@firebase/auth": "0.20.11",
+    "@firebase/component": "0.5.21",
+    "@firebase/database-types": "0.9.17",
+    "@firebase/util": "1.7.3",
+    "@material-ui/core": "4.12.4",
+    "@material-ui/icons": "4.11.3",
+    "@mui/icons-material": "5.10.9",
+    "@mui/material": "5.10.12",
+    "@stripe/react-stripe-js": "1.15.0",
+    "@stripe/stripe-js": "1.44.1",
+    "axios": "1.1.3",
+    "firebase": "9.12.1",
+    "firebase-frameworks": "0.6.1",
+    "firebase-tools": "11.16.0",
+    "moment": "2.29.4",
+    "react": "17.0.2",
+    "react-currency-format": "1.1.0",
+    "react-dom": "17.0.2",
+    "react-router-dom": "5.3.0",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
